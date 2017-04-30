@@ -2,6 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
+## Steps : 
+  Step 1 : <br>
+      Install NodeJS 
+  Step 2 : <br>
+     Open the Project Folder in CMD and Type Command ==> `npm install`  
+      <strong>Note</strong> : It will Take a while to install 
+  
+  Step 3 : <br>
+     Type this Command after Finishing the Step 2 and Installiation Finished ===> `npm install -g @angualr/cli`   <br>
+     
+  Step 4 : <br>
+     This is the Step <br>
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
